@@ -30,7 +30,6 @@ public class Parser {
             help();
             throw new RuntimeException(e);
         }
-
     }
 
     public static void help() {
